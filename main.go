@@ -1,5 +1,5 @@
 package main
-
+// испытываю Git
 import (
 	"fmt"
 )
